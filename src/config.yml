@@ -1,0 +1,10 @@
+#WELCOME TO ELITEBANS CONFIG
+
+#TO SET A NULL VALUE, FOR EXAMPLE SET NO PASSWORD, USE ''.
+
+sql:
+  username: root
+  password: ''
+  urlbase: jdbc:mysql://
+  host: localhost
+  database: elitebans

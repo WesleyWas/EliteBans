@@ -1,0 +1,15 @@
+name: EliteBans
+version: 0.1
+author: Weswaas
+main: com.weswaas.elitebans.Main
+commands:
+  ban:
+  unban:
+  banip:
+  alts:
+  check:
+  mute:
+  unmute:
+  banlist:
+  kick:
+  ip:
